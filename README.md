@@ -8,7 +8,7 @@
 
 | 对应                                                         | 配置                                 | 状态 |
 | ------------------------------------------------------------ | ------------------------------------ | -------- |
-| [Loon](https://www.nsloon.com/openloon/import?sub=https://raw.githubusercontent.com/Miu0983/ProxyResource/refs/heads/main/Configuration/Loon/loon_config.conf) | 策略组                                 | 正常   |
+| [Loon](https://www.nsloon.com/openloon/import?sub=https://raw.githubusercontent.com/Miu0983/ProxyResource/refs/heads/main/Configuration/Loon/loon_config.conf) | 策略组                                 | 失效   |
 
 ## 规则
 
